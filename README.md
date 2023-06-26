@@ -22,3 +22,8 @@ Resultados Detalhados : Apresenta os candidatos encontrados, fornecendo informa�
 Ajuste de Critérios : Caso nenhum candidato seja encontrado, o sistema oferece a opção de ajustar as notas mínimas ou expandir a busca, proporcionando uma maior flexibilidade na definição dos critérios de seleção.
 
 Integração Simples : O sistema é projetado para ser facilmente integrado aos processos seletivos existentes, permitindo que as empresas aproveitem os benefícios da busca direcionada de candidatos sem a necessidade de garantir sistemas ou fluxos de trabalho complexos.
+
+Obrigado pela a Atenção de Todos!
+
+e-mail: pammilacarvalho@gmail.com
+linkedin: https://www.linkedin.com/in/pâmela-carvalho-sousa-3aa928275/
